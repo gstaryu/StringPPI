@@ -1,5 +1,7 @@
 # StringPPI
 
+[中文版](README_zh.md)
+
 This repository is used to process PPI data from the STRING website.
 
 ### Solving the 2000 Protein Input Limitation on STRING
